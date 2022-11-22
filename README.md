@@ -1,1 +1,2 @@
-# COM-504_2020A1R156
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
